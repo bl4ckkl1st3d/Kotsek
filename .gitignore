@@ -7,7 +7,6 @@ runs/
 .vscode
 *.mp4
 datasets/
-README.md
 dump.txt
 backend/
 .next/
