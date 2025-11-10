@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+node_modules/
+/dist/
+runs/
+.env
+.vscode
+*.mp4
+datasets/
+README.md
+dump.txt
+backend/
+.next/
+detect.py
+train.py
