@@ -47,7 +47,7 @@ A `Makefile` is provided for convenient commands.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/kotsek.git](https://github.com/your-username/kotsek.git)
+    git clone [https://github.com/bl4ckkl1st3d/kotsek.git](https://github.com/bl4ckkl1st3d/kotsek.git)
     cd kotsek
     ```
 
